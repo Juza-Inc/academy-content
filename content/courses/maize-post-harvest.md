@@ -6,7 +6,7 @@ category: post_harvest
 difficulty: beginner
 ---
 
-# Harvesting
+# Harvesting & Drying
 
 ## When to Harvest
 Maize is ready when husks are dry and brown. Press a kernel with
