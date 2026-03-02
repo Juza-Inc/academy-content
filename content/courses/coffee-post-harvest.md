@@ -11,19 +11,17 @@ difficulty: beginner
 ## When to Harvest
 Coffee is ready when husks are dry and brown. Press a kernel with
 your thumbnail - if it dents but doesn't crack, moisture is ~20%.
-1.  Next
+1.  Continue
 
 ## Harvesting Methods
 Hand-pick cobs carefully. Avoid soil contact. Stack in a clean,
 dry area away from rain and direct ground contact.
-1.  Take Quiz
-
-# Drying
+1.  Continue
 
 ## Why Drying Matters
 Coffee above 14% moisture grows mold. Aflatoxin from mold is
 dangerous to health and makes grain unsellable at market.
-1.  Next
+1.  Continue
 
 ## Sun Drying
 Spread shelled coffee on clean tarpaulin, 5cm thick. Turn every
