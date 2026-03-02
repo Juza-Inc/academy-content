@@ -30,8 +30,6 @@ Spread shelled maize on clean tarpaulin, 5cm thick. Turn every
 2 hours. Dry for 3-5 sunny days until kernels crack when bitten.
 1.  Take Quiz
 
-Quiz file (quizzes/maize.md) -- Q: marks a question, numbered options, A: marks the correct answer (1-indexed):
-
 ---
 course: maize-post-harvest
 title: Maize Storage Quiz
