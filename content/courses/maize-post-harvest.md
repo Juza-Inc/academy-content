@@ -6,8 +6,6 @@ category: post_harvest
 difficulty: beginner
 ---
 
-# Harvesting & Drying
-
 ## When to Harvest
 Maize is ready when husks are dry and brown. Press a kernel with
 your thumbnail - if it dents but doesn't crack, moisture is ~20%.
@@ -28,10 +26,7 @@ Spread shelled maize on clean tarpaulin, 5cm thick. Turn every
 2 hours. Dry for 3-5 sunny days until kernels crack when bitten.
 1.  Take Quiz
 
----
-course: maize-post-harvest
-title: Maize Storage Quiz
----
+## Quiz
 
 Q: What moisture level is safe for maize storage?
 1. 20-25%
