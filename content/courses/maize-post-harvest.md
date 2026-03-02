@@ -11,20 +11,24 @@ difficulty: beginner
 ## When to Harvest
 Maize is ready when husks are dry and brown. Press a kernel with
 your thumbnail - if it dents but doesn't crack, moisture is ~20%.
+1.  Next
 
 ## Harvesting Methods
 Hand-pick cobs carefully. Avoid soil contact. Stack in a clean,
 dry area away from rain and direct ground contact.
+1.  Next
 
 # Drying
 
 ## Why Drying Matters
 Maize above 14% moisture grows mold. Aflatoxin from mold is
 dangerous to health and makes grain unsellable at market.
+1.  Next
 
 ## Sun Drying
 Spread shelled maize on clean tarpaulin, 5cm thick. Turn every
 2 hours. Dry for 3-5 sunny days until kernels crack when bitten.
+1.  Take Quiz
 
 Quiz file (quizzes/maize.md) -- Q: marks a question, numbered options, A: marks the correct answer (1-indexed):
 
