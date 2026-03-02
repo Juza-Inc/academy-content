@@ -16,7 +16,7 @@ your thumbnail - if it dents but doesn't crack, moisture is ~20%.
 ## Harvesting Methods
 Hand-pick cobs carefully. Avoid soil contact. Stack in a clean,
 dry area away from rain and direct ground contact.
-1.  Next
+1.  Take Quiz
 
 # Drying
 
